@@ -1,3 +1,3 @@
 # Simple Footer
 
-This is a simple made while studying with CodeBerry.
+This is a simple footer made while studying with CodeBerry.
